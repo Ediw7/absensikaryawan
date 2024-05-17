@@ -2,7 +2,7 @@
 Absensi dan Sistem Informasi Karyawan berbasis web
 
 
--> Absen Karyawan - SIKaryawan
+-> Absen Karyawan - Ecleven
 
 Absen Karyawan - Sistem informasi karyawan merupakan aplikasi absensi berbasis web, yang dibuat untuk memenuhi kebutuhan perusahaan atau instansi yang membutuhkan aplikasi absensi karyawan.
 
@@ -14,10 +14,6 @@ Absen Karyawan - Sistem informasi karyawan merupakan aplikasi absensi berbasis w
 -> Login default admin : 
   1. username = admin
   2. password = admin
-  
--> Login default karyawan : 
-  1. username = user
-  2. password = user
   
 -> Catatan(PENTING) :
     <i style="color: yellow;">Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'karyawansi'</i>
