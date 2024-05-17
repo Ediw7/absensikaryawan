@@ -108,7 +108,7 @@ ALTER TABLE `absensi`
 --
 -- Indexes for table `tb_daftar`
 --
-ALTER TABLE `tb_tadmin`
+ALTER TABLE `tb_admin`
   ADD PRIMARY KEY (`id`);
 
 --
